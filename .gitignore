@@ -1,0 +1,6 @@
+# Environmental variables should be set separately
+.env
+
+# Composer puts stuff here
+composer.phar
+/vendor/
